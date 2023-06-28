@@ -1,6 +1,6 @@
 ### Chemist excited to contribute to Open Source projects
 
-- I'm just getting started with Github
+- I'm just getting started on Github
 
 <!--
 **frenio/frenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
