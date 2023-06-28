@@ -1,4 +1,4 @@
-### Chemist excited to learn about neural networks and to contribute to Open Source projects
+### Chemist excited to learn about neural networks and contribute to Open Source projects
 
 - I'm just getting started on Github
 
