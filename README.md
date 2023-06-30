@@ -1,6 +1,7 @@
 ### Chemist - excited to learn about ML and NNs and to contribute to Open Source projects
 
 - just getting started on Github
+- [GoogleScholar](http://www.fren.io)
 
 <!--
 **frenio/frenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
