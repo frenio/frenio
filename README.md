@@ -1,5 +1,3 @@
-<base target="_blank">
-
 ### Chemist - excited to learn about ML and NNs and to contribute to Open Source projects
 
 - just getting started on Github
