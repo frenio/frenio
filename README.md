@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="https://scholar.google.com/citations?user=-pvktD0AAAAJ">
-        <img src="https://img.shields.io/badge/GoogleScholar-gray?style=flat-square&logo=GoogleScholar" alt="GoogleScholar">
+        <img src="https://img.shields.io/badge/Google%20Scholar-gray?style=flat-square&logo=GoogleScholar" alt="GoogleScholar">
 </a>
 </p>
 
