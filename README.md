@@ -1,3 +1,5 @@
+<base target="_blank">
+
 ### Chemist - excited to learn about ML and NNs and to contribute to Open Source projects
 
 - just getting started on Github
@@ -6,7 +8,7 @@
 <a href="https://www.linkedin.com/in/fredeker">
         <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
-<a href="https://scholar.google.com/citations?user=-pvktD0AAAAJ">
+<a href="https://scholar.google.com/citations?user=-pvktD0AAAAJ" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Scholar-gray?style=flat-square&logo=GoogleScholar" alt="GoogleScholar">
 </a>
 </p>
