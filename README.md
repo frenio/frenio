@@ -1,4 +1,4 @@
-### Chemist - excited to learn about ML and NNs and to contribute to Open Source projects
+### Chemist - excited to learn about ML and DL and to contribute to Open Source projects
 
 - just getting started on Github
 
