@@ -1,6 +1,6 @@
 ### Chemist – excited to learn about ML and DL and to contribute to Open Source projects.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=000000&width=800&lines=Currently+learning+with+fast.ai%27s+Practical+Deep+Learning+for+Coders...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=000000&width=800&lines=Currently+learning+with+fast.ai%27s+Deep+Learning+for+Coders...)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fredeker">
