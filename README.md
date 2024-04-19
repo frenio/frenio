@@ -1,6 +1,6 @@
 ### Chemist – excited about machine learning and neural networks.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=000000&width=800&lines=I am currently+applying+ideas+from+fast.ai%27s+Deep+Learning+for+Coders+2022+course+to+chemistry+related+problems...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=000000&width=800&lines=I+am+currently+applying+ideas+from+fast.ai%27s+Deep+Learning+for+Coders+2022+course+to+chemistry+related+problems...)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fredeker">
