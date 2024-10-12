@@ -1,6 +1,6 @@
 ### Chemist – excited about machine learning and neural networks.
 
-I am currently applying ideas from fast.ai's Deep Learning for Coders 2022 course to chemistry related problems...
+I am currently applying ideas from fast.ai's Deep Learning for Coders 2022 course to chemistry-related problems...
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fredeker">
